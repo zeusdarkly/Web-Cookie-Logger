@@ -9,19 +9,20 @@ def create_public_connection():
 
 def get_public_url():
     ffile = "forward.txt"
-    try:
+    if os.path.exists(ffile):
+        # Dosyanın içeriğini temizle
+        with open(ffile, 'w') as file:
+            file.write("")  # Dosyanın içeriğini temizler
         with open(ffile, 'r') as file:
             read_data = file.read()
-        os.remove(ffile)
-        new_data = read_data.replace("Forwarding HTTP traffic from", "").strip().replace("\n", "").replace("\r", "")
-        if not new_data:
+        new_data = read_data.replace("Forwarding HTTP traffic from", "")
+        new_data = new_data.replace("\n", "")
+        new_data = new_data.replace("\r", "")
+        if new_data == "":
             print("Please restart.....")
             sys.exit()
         else:
             return new_data
-    except PermissionError:
-        print(f"Hata: {ffile} dosyası başka bir işlem tarafından kullanılıyor.")
-        sys.exit()
-    except Exception as e:
-        print(f"Hata: {ffile} dosyasını işlerken bir hata oluştu: {e}")
+    else:
+        print("Error: forward.txt does not exist.")
         sys.exit()
