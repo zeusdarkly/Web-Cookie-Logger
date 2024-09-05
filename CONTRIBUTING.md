@@ -2,7 +2,7 @@
 
 ## Katkıda Bulunanlar
 
-- **[Kişinin Adı](Kişinin GitHub Profil Linki)** - Hata raporları ve testler 
+- **[Batu](https://github.com/Brine7376)** - Hata raporları ve testler 
 
 ## Teşekkürler
 
