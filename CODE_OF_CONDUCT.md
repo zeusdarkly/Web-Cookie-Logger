@@ -1,80 +1,94 @@
-Vatandaş Davranış Kuralları
-1. Amaç
-Topluluk adının birincil hedefi, mümkün olan en çeşitli ve farklı geçmişlere sahip en fazla sayıda katılımcıyı kapsamak. Bu nedenle, cinsiyet, cinsel yönelim, yetenek, etnik köken, sosyoekonomik statü ve din (veya dinsizlik) fark etmeksizin herkes için dostça, güvenli ve misafirperver bir ortam sağlamaya kararlıyız.
+# Citizen Code of Conduct
 
-Bu davranış kuralları, topluluğumuza katılan herkes için beklentilerimizi ve kabul edilemez davranışların sonuçlarını ana hatlarıyla açıklamaktadır.
+## 1. Purpose
 
-Topluluk adına katılan herkesi herkes için güvenli ve olumlu deneyimler yaratmamıza yardımcı olmaya davet ediyoruz.
+A primary goal of Web Cookie Logger is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-2. Açık [Kaynak/Kültür/Teknoloji] Vatandaşlık
-Bu Davranış Kurallarının tamamlayıcı bir hedefi, katılımcıları eylemlerimiz ile toplumumuz üzerindeki etkileri arasındaki ilişkiyi tanımaya ve güçlendirmeye teşvik ederek açık [kaynak/kültür/teknoloji] vatandaşlığını artırmaktır.
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-Topluluklar, içinde bulundukları toplumları yansıtır ve toplumda var olan çok sayıda eşitsizlik ve güç suistimaline karşı koymak için olumlu eylem şarttır.
+We invite all those who participate in Web Cookie Logger to help us create safe and positive experiences for everyone.
 
-Topluluğumuzun misafirperver, dost canlısı olmasını ve tüm katılımcıların en üst düzeyde katkıda bulunmalarını teşvik etmek için ekstra çaba sarf eden birini görürseniz, bunu bize bildirmek isteriz.
+## 2. Open [Source/Culture/Tech] Citizenship
 
-3. Beklenen Davranış
-Aşağıdaki davranışlar tüm toplum üyelerinden beklenir ve talep edilir:
+A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
-Gerçek ve aktif bir şekilde katılın. Bunu yaparken, bu topluluğun sağlığına ve uzun ömürlülüğüne katkıda bulunursunuz.
-Konuşmalarınızda ve davranışlarınızda düşünceli ve saygılı olun.
-Çatışmadan önce işbirliğini deneyin.
-Aşağılayıcı, ayrımcı veya taciz edici davranış ve konuşmalardan kaçının.
-Çevrenize ve diğer katılımcılara dikkat edin. Tehlikeli bir durum, sıkıntıda olan biri veya bu Davranış Kuralları'nın ihlallerini fark ederseniz, önemsiz görünseler bile, toplum liderlerini uyarın.
-Topluluk etkinlik mekanlarının halkla paylaşılabileceğini unutmayın; lütfen bu mekanların tüm ziyaretçilerine karşı saygılı olun.
-4. Kabul Edilemez Davranış
-Aşağıdaki davranışlar taciz olarak değerlendirilir ve topluluğumuzda kabul edilemez:
+Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-Başka bir kişiye yönelik şiddet, şiddet tehditleri veya şiddet içeren dil kullanımı.
-Cinsiyetçi, ırkçı, homofobik, transfobik, engellilere yönelik veya başka şekillerde ayrımcı şakalar ve dil.
-Cinsel içerikli veya şiddet içeren materyallerin yayınlanması veya görüntülenmesi.
-Başkalarının kişisel kimlik bilgilerini yayınlamak veya yayınlamakla tehdit etmek ("doxing").
-Özellikle cinsiyet, cinsel yönelim, ırk, din veya engellilikle ilgili kişisel hakaretler.
-Uygunsuz fotoğraf çekimi veya kayıt yapılması.
-Uygunsuz fiziksel temas. Birine dokunmadan önce onun iznini almalısınız.
-İstenmeyen cinsel ilgi. Buna cinselleştirilmiş yorumlar veya şakalar; uygunsuz dokunma, elle taciz ve istenmeyen cinsel yaklaşımlar dahildir.
-Kasıtlı olarak sindirme, takip etme veya rahatsız etme (çevrimiçi veya şahsen).
-Yukarıdaki davranışlardan herhangi birini savunmak veya teşvik etmek.
-Topluluk etkinliklerinin, konuşmalar ve sunumlar dahil, sürekli olarak aksaması.
-5. Silah Politikası
-Topluluk adı etkinliklerinde, topluluk alanlarında veya bu Davranış Kuralları kapsamındaki diğer alanlarda hiçbir silaha izin verilmeyecektir . Silahlar, silahlar, patlayıcılar (havai fişekler dahil) ve avlanma veya gösteri amaçlı kullanılanlar gibi büyük bıçaklar ve başkalarına zarar verme veya zarar verme amacıyla kullanılan diğer tüm öğeleri içerir, ancak bunlarla sınırlı değildir. Bu öğelerden birine sahip olduğu görülen herhangi bir kişiden derhal ayrılması istenecek ve yalnızca silah olmadan geri dönmesine izin verilecektir. Topluluk üyelerinin ayrıca bu konudaki tüm eyalet ve yerel yasalara uyması beklenmektedir.
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-6. Kabul Edilemez Davranışların Sonuçları
-Sponsorlar ve karar alma yetkisi olanlar dahil olmak üzere, topluluk üyelerinden herhangi birinin kabul edilemez davranışlarına müsamaha gösterilmeyecektir.
+## 3. Expected Behavior
 
-Kabul edilemez davranışlara son verilmesi istenen herkesin derhal buna uyması beklenir.
+The following behaviors are expected and requested of all community members:
 
-Topluluk üyelerinden biri kabul edilemez bir davranışta bulunursa, topluluk organizatörleri uygun gördükleri her türlü eylemi gerçekleştirebilir; bu eylemler arasında uyarıda bulunmaksızın geçici yasaklama veya topluluktan kalıcı ihraç (ücretli etkinlik olması durumunda geri ödeme yapılmaz) yer alır.
+ * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+ * Exercise consideration and respect in your speech and actions.
+ * Attempt collaboration before conflict.
+ * Refrain from demeaning, discriminatory, or harassing behavior and speech.
+ * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+ * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-7. Raporlama Yönergeleri
-Kabul edilemez bir davranışa maruz kalırsanız veya tanık olursanız ya da başka endişeleriniz varsa lütfen en kısa sürede bir topluluk organizatörüne bildirin. İletişim bilgileri .
+## 4. Unacceptable Behavior
 
-Raporlama yönergelerine bağlantı
+The following behaviors are considered harassment and are unacceptable within our community:
 
-Ek olarak, topluluk organizatörleri topluluk üyelerinin yerel kolluk kuvvetleriyle etkileşime girmesine yardımcı olmak veya kabul edilemez davranışlar yaşayanların kendilerini güvende hissetmelerine yardımcı olmak için mevcuttur. Kişisel etkinlikler bağlamında, organizatörler ayrıca sıkıntı yaşayan kişinin isteğine göre refakatçi de sağlayacaktır.
+ * Violence, threats of violence or violent language directed against another person.
+ * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+ * Posting or displaying sexually explicit or violent material.
+ * Posting or threatening to post other people's personally identifying information ("doxing").
+ * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+ * Inappropriate photography or recording.
+ * Inappropriate physical contact. You should have someone's consent before touching them.
+ * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+ * Deliberate intimidation, stalking or following (online or in person).
+ * Advocating for, or encouraging, any of the above behavior.
+ * Sustained disruption of community events, including talks and presentations.
 
-8. Şikayetlerin Ele Alınması
-Bu Davranış Kurallarını ihlal etmekle haksız yere veya haksız yere suçlandığınızı düşünüyorsanız, şikayetinizin kısa bir açıklamasıyla Yönetim Kurulunu bilgilendirmelisiniz. Şikayetiniz mevcut yönetim politikalarımıza uygun şekilde ele alınacaktır. Politikaya bağlantı
+## 5. Weapons Policy
 
-Not
+No weapons will be allowed at Web Cookie Logger events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
 
-9. Kapsam
-Tüm topluluk katılımcılarının (ücretli veya ücretsiz katkıda bulunanlar, sponsorlar ve diğer konuklar) tüm topluluk mekanlarında (çevrimiçi ve şahsen) ve topluluk faaliyetlerine ilişkin tüm birebir iletişimlerde bu Davranış Kurallarına uymasını bekliyoruz.
+## 6. Consequences of Unacceptable Behavior
 
-Bu davranış kuralları ve ilgili prosedürler, toplum faaliyetlerinin kapsamı dışında gerçekleşen ve toplum üyelerinin güvenliğini ve refahını olumsuz yönde etkileme potansiyeli bulunan kabul edilemez davranışlar için de geçerlidir.
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
-10. İletişim bilgileri
-İletişim bilgileri
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-11. Lisans ve atıf
-Vatandaş Davranış Kuralları Stumptown Syndicate tarafından Creative Commons Atıf-BenzerPaylaşım lisansı altında dağıtılmaktadır .
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-Metnin bazı bölümleri Django Davranış Kuralları ve Geek Feminizm Taciz Karşıtı Politikası'ndan alınmıştır .
+## 7. Reporting Guidelines
 
-Revizyon 2.3. 6 Mart 2017'de yayınlandı.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. .
 
-Revizyon 2.2. 4 Şubat 2016'da yayınlandı.
 
-Revizyon 2.1. 23 Haziran 2014'te yayınlandı.
 
-Revizyon 2.0, Stumptown Syndicate yönetim kurulu tarafından 10 Ocak 2013'te kabul edildi. 17 Mart 2013'te yayımlandı.
+Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+
+## 8. Addressing Grievances
+
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify  with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
+
+
+
+## 9. Scope
+
+We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+
+This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+
+## 10. Contact info
+
+
+
+## 11. License and attribution
+
+The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+
+Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+_Revision 2.3. Posted 6 March 2017._
+
+_Revision 2.2. Posted 4 February 2016._
+
+_Revision 2.1. Posted 23 June 2014._
+
+_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
