@@ -16,4 +16,4 @@ WebCookieLogger, tarayıcı çerezlerini toplamak için kullanılan bir Python t
 1. **Sunucuyu Başlatın:**
 
    ```bash
-   python getcookies.py
+   python cookies.py
