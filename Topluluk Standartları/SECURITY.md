@@ -17,3 +17,4 @@ Güvenlik politikamız sürekli olarak güncellenmektedir. Güncellemeler için 
 ## Katkıda Bulunanların Sorumlulukları
 
 Katkıda bulunanlar, proje ile ilgili güvenlik açığı bulduklarında bu bilgiyi yetkili kanallardan bildirerek güvenliğin sağlanmasına katkıda bulunmalıdır.
+
