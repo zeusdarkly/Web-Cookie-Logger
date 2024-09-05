@@ -10,9 +10,9 @@ def create_public_connection():
 def get_public_url():
     ffile = "forward.txt"
     if os.path.exists(ffile):
-        # Dosyanın içeriğini temizle
+       
         with open(ffile, 'w') as file:
-            file.write("")  # Dosyanın içeriğini temizler
+            file.write("")  
         with open(ffile, 'r') as file:
             read_data = file.read()
         new_data = read_data.replace("Forwarding HTTP traffic from", "")
