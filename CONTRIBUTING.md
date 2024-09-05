@@ -1,3 +1,9 @@
 # Katkıda Bulunanlar
 
-Şu anda projeye katkıda bulunan kimse bulunmuyor. Gelecekte katkıda bulunmak isteyen herkese teşekkürler!
+## Katkıda Bulunanlar
+
+- **[Kişinin Adı](Kişinin GitHub Profil Linki)** - Hata raporları ve testler 
+
+## Teşekkürler
+
+Katkılarınız için teşekkür ederiz! Projemize sağladığınız destek çok değerlidir.
