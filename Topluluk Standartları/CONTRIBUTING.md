@@ -10,3 +10,4 @@ Projeye katkıda bulunmak istiyorsanız, lütfen aşağıdaki adımları takip e
 
 ## Kod Katkısı
 - Katkıda bulunmak için [Pull Request](https://github.com/zeusdarkly/repository/pulls) gönderin.
+
